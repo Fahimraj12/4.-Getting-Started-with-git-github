@@ -8,3 +8,6 @@ This repository is created to complete the GitHub UI and Git CLI assignment.
 - simple-interest.sh
 - License
 - Contribution guidelines
+
+## Author's:
+Fahim Raj
